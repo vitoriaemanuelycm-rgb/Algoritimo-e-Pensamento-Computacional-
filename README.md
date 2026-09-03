@@ -1,6 +1,6 @@
 # Algoritmo-e-Pensamento-Computacional
 O primeiro arquivo e um código e  de um Fluxograma criado no flowgorithm de uma calculadora científica que calcula 20 operações matemáticas que vão dá mais simple a mais complexa.
-o segundo arquivo a mesma calculadora científica mais agora sua versão está em C.
+O segundo arquivo a mesma calculadora científica mais agora sua versão está em C.
 
 # Operações 
 Soma ,subtração multiplicação, divisão, divisão inteira , módulo, exponencial, raiz quadrada, área do retângulo, área do triângulo, área do quadrado, área do losango, perímetro do raio,  perímetro do quadrado ,conversão de Kelvin para Celsius ,conversão de Fahrenheit para Celsius, conversão de metros por segundos para quilômetros por hora ,cálculo de consumo de combustível e Logaritimo.
