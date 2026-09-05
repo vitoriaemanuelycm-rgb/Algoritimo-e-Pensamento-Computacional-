@@ -6,5 +6,5 @@ O primeiro arquivo é um código e de um Fluxograma criado no flowgorithm de uma
 Soma ,subtração multiplicação, divisão, divisão inteira , módulo, exponencial, raiz quadrada, área do retângulo, área do triângulo, área do quadrado, área do losango, perímetro do raio, perímetro do quadrado ,conversão de Kelvin para Celsius ,conversão de Fahrenheit para Celsius, conversão de metros por segundos para quilômetros por hora ,cálculo de consumo de combustível e Logaritmo.
 
 ##### Esse programa tem como objetivo criar uma calculadora científica complexa e inovadora.
-##Conversão de Temperatura
+## Conversão de Temperatura
 o Terceiro arquivo e um programa que calcula a conversão de Temperaturas não são totais seis incluídos Kelvin para Celsius ,Kelvin para Fahrenheit ,Celsius para Kelvin,Celsius para Fahrenheit ,Fahrenheit para Celsius ,Fahrenheit para Kelvin .
