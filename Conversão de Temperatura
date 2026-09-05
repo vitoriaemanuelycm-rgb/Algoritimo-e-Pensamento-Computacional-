@@ -1,0 +1,49 @@
+#include <stdio.h>
+#include <math.h>
+//Kelvin > Celsius
+//Kelvin > Fahrenheit
+//Celsius > Kelvin
+//Celsius > Fahrenheit
+//Fahrenheit > Celsius
+//Fahrenheit > Kelvin
+
+int main() {
+    int op;
+    float temp,resultado;
+    
+    printf(" Escolha entre as opções de conversão a seguir:");
+    printf("1. Kelvin para Celsius\n");
+    printf("2. Kelvin para Fahrenheit\n");
+    printf("3. Celsius para Kelvin\n");
+    printf("4. Celsius para Fahrenheit\n");
+    printf("5. Fahrenheit para Celsius\n");
+    printf("6. Fahrenheit para Kelvin\n");
+    scanf("%d", &op);
+    
+    printf("Digite o valor: ");
+    scanf("%f", &temp);
+    
+    switch(op) {
+        case 1: ( resultado= temp - 273);
+        printf("\n%.2f K = %.2f °C\n", temp, resultado); break;
+        case 2: (resultado= ((temp - 273)* 1.8) + 32 );
+        printf("\n %.2f K = %.2f °F  \n", temp, resultado); break; 
+        case 3: ( resultado= temp + 273);
+        printf("%.2f °C = %.2f °K\n", temp,resultado); break;
+        case 4: ( resultado= temp * 1.8 + 32);
+        printf("\n%.2f °C = %.2f °F = \n", temp, resultado); break;
+        case 5: ( resultado= (temp - 32) / 1.8);
+        printf("\n%.2f °F = %.2f °C\n", temp, resultado); break;
+        case 6: ( resultado= (temp - 32) * (5.0 /9.0 )+ 273); 
+        printf("\n%.2f °F = %.2f °K\n", temp, resultado); break;
+        default:
+        printf("\nErrou bobo!\n");
+        return 0;
+
+    }
+}
+
+
+
+
+
