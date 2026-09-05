@@ -1,5 +1,6 @@
 ### Calculadora em C
 Nome: Emanuely Vitória Cardoso Mendes 
+
 O programa é uma calculadora feita com a linguagem C, que proporciona diferentes tipos de operações matemáticas e aritméticas para o usuário.
 #### Objetivo
 A calculadora tem como objetivo facilitar o dia a dia dos usuários
