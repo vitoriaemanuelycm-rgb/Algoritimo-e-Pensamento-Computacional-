@@ -21,7 +21,7 @@ Foram usados o <stdio.h>, que é responsável por controlar a interação entre 
 e a <math.h>, que é a biblioteca matemática responsável por fornecer funções como sqrt para calcular raiz quadrada
 e pow para calcular a potência dos números.
 #### Organização do código
-O código foi organizado da seguinte maneira: é mostrada a opção do 1 ao 20, 
+O código foi organizado da seguinte maneira: é mostrada as opções do 1 ao 20, que
 são as operações que a calculadora faz. Quando o usuário digita a opção, o código lê qual foi a opção digitada
 utilizando if e else if. Em alguns casos foi usado o else.
 Um exemplo é o de raiz quadrada: quando você digita que quer a opção 8 (que é a raiz quadrada),
