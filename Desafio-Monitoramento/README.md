@@ -21,3 +21,5 @@ Para executar a duas maneiras copiar o código e colar no GBD Online ou utulizar
 No primeiro teste todas as contra medidas caso o usuário digitasse algo que não deveria funcionaram mostrando com a condição else mensagem de erro.
 No segundo teste o programa mostrou um aviso quando uma temperatura ultrapassava o limite mais ao digitar uma próxima temperatura dentro do limite o programa ainda não mostrou o aviso de alerta quando e ultrapassado 3 vezes mostrando bem sucedido essa parte do programa.
 No último teste o programa funciono como esperado automaticamente encerrando quando 3 temperaturas altas e fora dos limites eram digitada 3 vezes seguidas.
+
+##### Eu escolhi o While porque eu já conhecia ele do Python e era uma mais fácil para mim de trabalhar com ele. A parte no algoritmo que houve diferença entre testar o laço e não outro comando para resolver um problema foi no momento em que usuário tinha que digitar várias temperaturas eu estava tendo problemas em conseguir fazer isso eu estava utilizando condições  if e não estavam funcionando.
