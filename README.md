@@ -10,7 +10,9 @@ Soma ,subtração multiplicação, divisão, divisão inteira , módulo, exponen
 o Terceiro arquivo e um programa que calcula a conversão de Temperaturas que são no totais seis incluídos Kelvin para Celsius ,Kelvin para Fahrenheit ,Celsius para Kelvin,Celsius para Fahrenheit ,Fahrenheit para Celsius ,Fahrenheit para Kelvin .
 
  ## Monitoramento de Temperatura
-O quarto arquivo e um programa que faz um monitoramento de temperatura pedindo ao usuário para colocar o limite assim que esse limite e inserido o programa começa a rodar pedindo para o usuário digitar suas temperaturas assim para encerrar o programa ou o usuário digita -999 ou ele é encerrado quando a temperatura ultrapassar o limite estabelecido no começo do programa três vezes seguidas ,depois de encerrado mostra os resultados como maior e menor temperatura, média,quantas temporadas o usuário digitou ,quantas vezes o limite foi ultrapassado 
+O quarto arquivo e um programa que faz um monitoramento de temperatura pedindo ao usuário para colocar o limite assim que esse limite e inserido o programa começa a rodar pedindo para o usuário digitar suas temperaturas assim para encerrar o programa ou o usuário digita -999 ou ele é encerrado quando a temperatura ultrapassar o limite estabelecido no começo do programa três vezes seguidas ,depois de encerrado mostra os resultados como maior e menor temperatura, média,quantas temperaturas o usuário digitou ,quantas vezes o limite foi ultrapassado ,e número do limite estabelecido.
+O programa também tem medidas contra erros por exemplo o usuário ao digitar o limite só pode colocar temperatura maior que 0.
+
 
 
 
