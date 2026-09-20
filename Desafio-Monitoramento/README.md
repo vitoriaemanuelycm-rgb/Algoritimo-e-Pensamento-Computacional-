@@ -1,11 +1,11 @@
+### Monitoramento Inteligente de Temperatura
 Nome:Emanuely Vitoria Cardoso Mendes
+
 Disciplina: Algoritimo e Pensamento Computacional
+
 Professora: Karla Sartin
-## Monitoramento Inteligente de Temperatura
 
-
-
-### Obejetivo
+#### Obejetivo
 
 
 
