@@ -1,5 +1,5 @@
 ## Desenvolvimento-de-algoritmo-e-pensamento-computacional
-## Calculadora Científica -Fluxograma flowgorithm-Calculadora Científica em C-
+## Calculadora Científica - fluxograma flowgorithm e em linguagem C
 O primeiro arquivo é um código e de um Fluxograma criado no flowgorithm de uma calculadora científica que calcula 20 operações matemáticas que vão dar mais simples a mais complexas. O segundo arquivo a mesma calculadora científica mais agora sua versão está em C onde agora colocamos na prática através de um código na linguagem em C essa calculadora que tem 20 opções de operação.
 
 #### Operações
